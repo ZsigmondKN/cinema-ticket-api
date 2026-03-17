@@ -22,23 +22,22 @@ A link to the corresponding Jira board https://zsigmond.atlassian.net/jira/softw
 Pictures of the functionality of the API:
 
 ### Create
-![This is an image](https://i.postimg.cc/P5c7zCq0/Capture.png)
+![Create Screenshot](./docs/images/Capture.png)
 
 ### Read all
-![This is an image](https://i.postimg.cc/vTHXdyBW/Capture1.png)
+![Read All Screenshot](./docs/images/Capture1.png)
 
 ### Read one
-![This is an image](https://i.postimg.cc/3xD1hnKb/Capture2.png)
+![Read One Screenshot](./docs/images/Capture2.png)
 
 ### Update
-![This is an image](https://i.postimg.cc/V6zWjwX3/Capture3.png)
+![Update Screenshot](./docs/images/Capture3.png)
 
 ### Delete
-![This is an image](https://i.postimg.cc/NFM8zxJD/Capture4.png)
+![Delete Screenshot](./docs/images/Capture4.png)
 
 ### Remove
-![This is an image](https://i.postimg.cc/J4sc3PB4/Capture5.png)
+![Remove Screenshot](./docs/images/Capture5.png)
 
 ### Test Coverage 
-![This is an image](https://i.postimg.cc/fWrYbmg4/Capture6.png)
-
+![Test Coverage Screenshot](./docs/images/Capture6.png)
