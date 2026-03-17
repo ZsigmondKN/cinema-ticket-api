@@ -1,5 +1,11 @@
 # Cinema Ticket API
 
+## Overview
+
+This was an early backend project completed as part of a guided practical during my initial learning of Java, REST APIs, and database integration.
+
+The goal was to understand how to build a simple CRUD API, connect it to a database, and test endpoints using tools like Postman.
+
 ## Explanation
 I have created an API that allows you to create, store, view, modify and delete a cinema ticket in a database. I have created this API project to showcase my knowledge of Java, Spring, databases and the interactions between them. 
 
@@ -36,8 +42,3 @@ Pictures of the functionality of the API:
 ### Test Coverage 
 ![This is an image](https://i.postimg.cc/fWrYbmg4/Capture6.png)
 
-### APR ERD
-![This is an image](https://i.postimg.cc/0j1j6YFn/API-ERD-Sheet1.png)
-
-### Risk Assessment
-![This is an image](https://i.postimg.cc/XYYJy7HR/API-Risk-Assessment-Sheet1.png)
